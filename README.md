@@ -1,2 +1,2 @@
-# jk-lib
+# jk-utils
 Common utils
