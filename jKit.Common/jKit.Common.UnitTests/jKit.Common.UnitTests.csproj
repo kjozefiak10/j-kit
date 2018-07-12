@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Jk.Utilities.Common\Jk.Utilities.Common.csproj" />
+    <ProjectReference Include="..\jKit.Common\jKit.Common.csproj" />
   </ItemGroup>
 
 </Project>

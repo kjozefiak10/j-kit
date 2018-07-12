@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-namespace Jk.Utilities.Common.UnitTests
+namespace jKit.Common.UnitTests
 {
     [TestClass]
     public class ArgsValidatorTests

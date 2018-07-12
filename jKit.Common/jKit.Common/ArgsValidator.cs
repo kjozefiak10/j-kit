@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Jk.Utilities.Common
+namespace jKit.Common
 {
     public static class ArgsValidator
     {
